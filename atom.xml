@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kevinfeng&#39;s blog</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yiailake.github.io/"/>
+  <updated>2016-12-26T10:33:06.000Z</updated>
+  <id>http://yiailake.github.io/</id>
+  
+  <author>
+    <name>kevinfeng</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>开篇时</title>
+    <link href="http://yiailake.github.io/2016/12/26/hello-world/"/>
+    <id>http://yiailake.github.io/2016/12/26/hello-world/</id>
+    <published>2016-12-26T09:15:00.000Z</published>
+    <updated>2016-12-26T10:33:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>时不我与<br>纵豆蔻年华，难赋深情<br>寥以笔记<br>闲叙心迹  </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;时不我与&lt;br&gt;纵豆蔻年华，难赋深情&lt;br&gt;寥以笔记&lt;br&gt;闲叙心迹  &lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="闲文" scheme="http://yiailake.github.io/categories/%E9%97%B2%E6%96%87/"/>
+    
+    
+      <category term="闲文" scheme="http://yiailake.github.io/tags/%E9%97%B2%E6%96%87/"/>
+    
+  </entry>
+  
+</feed>
